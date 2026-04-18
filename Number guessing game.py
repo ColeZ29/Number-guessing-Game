@@ -1,3 +1,8 @@
+#a is the random computer generated number
+#b is your current guess
+#c is your difficulty
+#d is your attempts remaining
+#e is your attempts made
 import random
 print("Welcome to the Number Guessing Game!")
 print("ChatGPT is thinking of number from 1 to 100")
